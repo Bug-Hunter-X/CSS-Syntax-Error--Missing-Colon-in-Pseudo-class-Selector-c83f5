@@ -1,0 +1,7 @@
+The following CSS rule is trying to style elements with the class `special` and the pseudo-class `:hover`. However, there is a syntax error: the pseudo-class is missing a colon.  This will cause the hover style to not apply.
+
+```css
+.special hover {
+  color: blue;
+}
+```
