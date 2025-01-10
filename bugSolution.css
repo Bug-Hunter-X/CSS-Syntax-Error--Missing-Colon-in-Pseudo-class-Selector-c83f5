@@ -1,0 +1,8 @@
+The correct syntax for applying styles on hover is to include a colon before the pseudo-class. Here's the corrected CSS:
+
+```css
+.special:hover {
+  color: blue;
+}
+```
+This ensures that the `color: blue;` style is correctly applied when an element with class `special` is hovered over.
