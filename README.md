@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS syntax error: forgetting the colon before a pseudo-class selector. The `bug.css` file contains the erroneous code. The `bugSolution.css` file shows the corrected code.
